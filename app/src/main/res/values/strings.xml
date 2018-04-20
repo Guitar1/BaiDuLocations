@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">北斗导航设置</string>
+    <string name="ip">Ip地址</string>
+    <string name="port">端口</string>
+    <string name="set_success">设置成功</string>
+    <string name="ip_port_null">ip或端口为空，请填写完整信息！</string>
+    <string name="id">ID</string>
+    <string name="return_time">回&#160;&#160;&#160;传\n时间(秒)</string>
+    <string name="enter_the_correct_number">请输入正确的手机号码</string>
+    <string name="save">保存</string>
+    <string name="isgetlocation">定位成功</string>
+</resources>
